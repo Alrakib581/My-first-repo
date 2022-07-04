@@ -1,0 +1,37 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.banner-container{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+.half-width{
+    width: 40%;
+    margin-left: 90px;
+  
+    
+}
+.main-img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.common-para{
+    line-height: 1.7;
+}
+.hire-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+}
