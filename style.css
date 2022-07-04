@@ -8,6 +8,7 @@ body{
     background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
     display: flex;
+    margin-bottom: 130px;
 
 }
 .half-width{
@@ -34,4 +35,11 @@ h1{
     padding: 10px 40px;
     color:white;
     font-weight: 700;
+    border-radius: 5px;
+}
+.dream-section{
+    display: flex;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right 0 bottom 20px;
 }
