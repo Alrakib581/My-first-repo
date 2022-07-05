@@ -1,5 +1,5 @@
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     
@@ -35,12 +35,11 @@ h3{
     color: orange;
 }
 .common-para{
-    line-height: 1.7;
     opacity: 0.6;
 }
 .hire-btn{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(green, tomato);
     padding: 10px 40px;
     color:white;
     font-weight: 700;
@@ -66,6 +65,7 @@ h3{
     height: 400px;
     box-shadow:10px 10px 40px gray;
     border-left: 7px solid blue;
+    border-radius: 5px;
     margin-left: 75px;
 }
 .experience-box h2{
@@ -79,6 +79,7 @@ h3{
 }
 .border{
     border-left: 7px solid #ff6347;
+    border-radius: 5px;
 }
 footer h4{
     text-align: center;
